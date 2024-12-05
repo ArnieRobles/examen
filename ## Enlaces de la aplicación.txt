@@ -1,0 +1,3 @@
+## Enlaces de la aplicación:
+- [Formulario de Login](http://localhost:8081/login)
+- [Formulario de Registro](http://localhost:8081/registro)
